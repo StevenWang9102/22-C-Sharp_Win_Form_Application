@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\PlayersManagementSystem\PlayersManagementSystemClass\bin\Debug\PlayersManagementSystemClass.dll
+\\mac\home\documents\visual studio 2015\Projects\PlayersManagementSystem\PlayersManagementSystemClass\bin\Debug\PlayersManagementSystemClass.pdb
+\\mac\home\documents\visual studio 2015\Projects\PlayersManagementSystem\PlayersManagementSystemClass\obj\Debug\PlayersManagementSystemClass.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PlayersManagementSystem\PlayersManagementSystemClass\obj\Debug\PlayersManagementSystemClass.dll
+\\mac\home\documents\visual studio 2015\Projects\PlayersManagementSystem\PlayersManagementSystemClass\obj\Debug\PlayersManagementSystemClass.pdb

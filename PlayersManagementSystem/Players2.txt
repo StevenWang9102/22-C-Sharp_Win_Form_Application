@@ -1,0 +1,4 @@
+1;Richard;McCaw;31/12/1980;187;107;Oamaru, New Zealand;Blues
+2;Sean;Fitzpatrick;4/6/1963;183;105;Auckland, New Zealand;Blues
+3;Kieran;Read;26/10/1985;193;111;Papakura, New Zealand;
+e;wang;fsdf;6/6/2019;22;11;fsdf;Auckland
